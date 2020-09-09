@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
- <meta charset="UTF-8">
-<meta name="description" content=“A personal website for
-Zainab Obaid">
+
 <img src="1.jpg" alt="Zainab's Picture" width="300"
 
   <p>  <h1>  Zainab Obaid</h1>
